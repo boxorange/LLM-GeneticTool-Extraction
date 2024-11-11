@@ -1,8 +1,6 @@
 # LLM-GeneticTool-Extraction
 
-This is the official code for the paper published at the 23rd Workshop on Biomedical Natural Language Processing (BioNLP) in 2024:
-
-[Leveraging LLMs and Web-based Visualizations for Profiling Bacterial Host Organisms and Genetic Toolboxes](https://aclanthology.org/2024.bionlp-1.28/)
+This is the official code for the paper published at the 23rd Workshop on Biomedical Natural Language Processing (BioNLP) in 2024: [Leveraging LLMs and Web-based Visualizations for Profiling Bacterial Host Organisms and Genetic Toolboxes](https://aclanthology.org/2024.bionlp-1.28/)
 
 ## Overview
 The project aims to evaluate various LLMs to extract bacterial hosts and genetic tools from literature using LLMs. We share annotated dataset for bacterial host organims and genetic tools which contains 1,777 entities tagged with 14 labels. 
